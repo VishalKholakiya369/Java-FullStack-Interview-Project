@@ -1,0 +1,4 @@
+id,product_id,created_at,sold_at,cost,product_category,product_name,product_brand,product_retail_price,product_department,product_sku,product_distribution_center_id
+1,1,2025-07-01T10:00:00,2025-07-10T12:00:00,500.00,Electronics,Laptop,Dell,699.99,Tech,D1001,1
+2,2,2025-07-02T11:30:00,,200.00,Electronics,Smartphone,Samsung,299.99,Tech,S2001,2
+

@@ -1,0 +1,4 @@
+order_id,user_id,status,gender,created_at,returned_at,shipped_at,delivered_at,num_of_item
+1,1,DELIVERED,Male,2025-07-01T10:00:00,,2025-07-03T10:00:00,2025-07-05T14:00:00,2
+2,2,SHIPPED,Female,2025-07-02T11:00:00,,,2025-07-06T15:00:00,1
+

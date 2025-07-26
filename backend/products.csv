@@ -1,0 +1,5 @@
+id,cost,category,name,brand,retail_price,department,sku,distribution_center_id
+1,500.00,Electronics,Laptop,Dell,699.99,Tech,D1001,1
+2,200.00,Electronics,Smartphone,Samsung,299.99,Tech,S2001,2
+
+

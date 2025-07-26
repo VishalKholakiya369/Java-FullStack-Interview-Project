@@ -1,0 +1,4 @@
+id,first_name,last_name,email,age,gender,state,street_address,postal_code,city,country,latitude,longitude,traffic_source,created_at
+1,John,Doe,john@example.com,30,Male,Karnataka,123 Street,560001,Bangalore,India,12.9716,77.5946,Google,2025-07-01T09:00:00
+2,Jane,Smith,jane@example.com,25,Female,Maharashtra,456 Avenue,400001,Mumbai,India,19.0760,72.8777,Facebook,2025-07-02T10:00:00
+
